@@ -1,3 +1,3 @@
-ESSE REPOSITÓRIO É PARTICULAR, CRIADO DENTRO DA CONTA VINCULADA AO EMAIL:
-202504585583@alunos.estacio.br, cuja conta foi criada no github.com para provas e cumprir os
-desafios propostos pela disciplina de Introdução a Programação
+#INFORMÇÕES IMPORTANTES:
+
+Esse repositório pertence a uma conta criada através do meu email de estudante do curso de Análise de Sistemas da Instituição de Ensino Superior Estacio de Ribeirão Preto - Período 1
