@@ -1,6 +1,7 @@
 #INFORMÇÕES IMPORTANTES:
 
-Esse repositório pertence a uma conta criada através do meu email de estudante do curso de Análise e Desenvolvimento de Sistemas da Instituição de Ensino Superior Estacio de Ribeirão Preto - Período 1
+PASTA DEDICADA PARA LABORATÓRIO DE ESTUDOS DO CURSO DE ANALISE E DESENVOLVIMENTO DE SISTEMAS
+INSTIUIÇÃO ESSTACIO. eSSA PASTA PERTENCE AO REPOSITORIO : https://github.com/ricardo-analisedesistemas/desafionovato.git
 
 Este repositório está separado dos repositorios dos "desafios" propostos pela
 disciplina de Introdução a Programação.
